@@ -1,5 +1,9 @@
 # 이메일 수집 PHP파일
 
+Your include statement would look like
+
+  <?php include('includes/contact_form.php'); ?>
+
 
 ------------------------------------------
 -------- PHP Simple Contact Form ---------
